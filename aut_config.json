@@ -1,0 +1,12 @@
+{
+    "telegram": {
+        "bot_token":"5008094107:AAFr8Y1hzzPtdycSyJs9YmcS14nxAZv3_pk",
+        "chat_id":"-610835123"
+    },
+    "twitter": {
+        "consumer_key": "28R3Kp8rlqNvTEvH837cKtLo4",
+        "consumer_secret": "Ha1R1Jl5T7P8TVQFXixmel02q9zmdmvK5rpAh5utqnK51FT44f",
+        "access_token": "1360664710664847363-7KnKk45zPbGJL5sYwzbfZP4zTeZMDa",
+        "access_token_secret": "b37uluUYwzDY0HbUFzpez0spEsMxfwBJHZ9LJK1pr4toK"
+    }
+}
