@@ -29,6 +29,6 @@ logic for detecting coin listings.
 python run_listing_listener.py -config auth_config.json"
 ```
 
-
+#### Architecture
 
 ![](docs/binance-listings-listener.png)
