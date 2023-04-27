@@ -26,7 +26,7 @@ logic for detecting coin listings.
 
 
 ```bash
-python run_listing_listener.py -config auth_config.json"
+python run_listing_listener.py -config auth_config.json
 ```
 
 #### Architecture
